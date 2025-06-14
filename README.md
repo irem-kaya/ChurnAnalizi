@@ -120,4 +120,4 @@ Müşterilerin abonelik iptali (churn) davranışlarını öngörerek, işletmen
 
 **İrem Nur KAYA**  
 Veri Bilimi ve Makine Öğrenmesi Çalışması  
-Teslim Tarihi: 17.06.2025
+Teslim Tarihi: 16.06.2025
