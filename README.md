@@ -1,5 +1,6 @@
 # 📊 Telco Customer Churn Prediction
 Bu proje, bir telekomünikasyon şirketine ait müşteri verileri üzerinden müşteri kaybını (churn) tahmin etmek amacıyla veri analizi ve makine öğrenmesi modellerini kapsamaktadır.
+
 Proje raporu: [rapor.docx](https://github.com/user-attachments/files/21515669/rapor.docx)
 ---
 
